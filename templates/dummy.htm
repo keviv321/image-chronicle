@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Image-Chronicle</title>
+</head>
+<body>
+	<form action="{{url_for('predictions')}}" method="POST" enctype="multipart/form-data">
+		<input type="file" id="image" name="photo" accept="image/png ,image/jpeg ,image/jpg">
+		<br/>
+		<br/>
+		<input type="submit" value="submit" >
+	</form>
+</body>
+</html>

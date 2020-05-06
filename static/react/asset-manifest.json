@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/react/css/main.33a8d5c0.chunk.css",
+    "main.js": "/static/react/js/main.0bc14aae.chunk.js",
+    "main.js.map": "/static/react/js/main.0bc14aae.chunk.js.map",
+    "runtime-main.js": "/static/react/js/runtime-main.ae9a3691.js",
+    "runtime-main.js.map": "/static/react/js/runtime-main.ae9a3691.js.map",
+    "css/2.9692f31f.chunk.css": "/static/react/css/2.9692f31f.chunk.css",
+    "js/2.6f212dbf.chunk.js": "/static/react/js/2.6f212dbf.chunk.js",
+    "js/2.6f212dbf.chunk.js.map": "/static/react/js/2.6f212dbf.chunk.js.map",
+    "../../templates/index.html": "/static/react/../../templates/index.html",
+    "css/2.9692f31f.chunk.css.map": "/static/react/css/2.9692f31f.chunk.css.map",
+    "css/main.33a8d5c0.chunk.css.map": "/static/react/css/main.33a8d5c0.chunk.css.map",
+    "js/2.6f212dbf.chunk.js.LICENSE.txt": "/static/react/js/2.6f212dbf.chunk.js.LICENSE.txt",
+    "media/1.jpg": "/static/react/media/1.45cf3b12.jpg",
+    "media/2.jpg": "/static/react/media/2.18b74168.jpg",
+    "media/3.jpg": "/static/react/media/3.3fdbb551.jpg",
+    "media/4.jpg": "/static/react/media/4.53d55190.jpg",
+    "media/5.jpg": "/static/react/media/5.5445af9a.jpg",
+    "media/6.jpg": "/static/react/media/6.d28f3c51.jpg",
+    "media/7.jpg": "/static/react/media/7.26598828.jpg",
+    "media/8.jpg": "/static/react/media/8.607c03aa.jpg",
+    "media/Abhishek.jpeg": "/static/react/media/Abhishek.9e4626bb.jpeg",
+    "media/Adarsh.jpg": "/static/react/media/Adarsh.8dfc3fcf.jpg",
+    "media/Vivek.png": "/static/react/media/Vivek.85f7ee39.png",
+    "media/about_back.jpg": "/static/react/media/about_back.d675e343.jpg",
+    "media/back.jpg": "/static/react/media/back.349353b2.jpg",
+    "media/dark_back.jpeg": "/static/react/media/dark_back.efb69a7a.jpeg",
+    "media/project_back.png": "/static/react/media/project_back.c7b7abe4.png",
+    "media/surf.jpg": "/static/react/media/surf.cff40dbb.jpg",
+    "media/works.jpg": "/static/react/media/works.9ee75cb1.jpg",
+    "precache-manifest.27dbd5488bae69fcbd5058cf9029ac9b.js": "/static/react/precache-manifest.27dbd5488bae69fcbd5058cf9029ac9b.js",
+    "service-worker.js": "/static/react/service-worker.js"
+  },
+  "entrypoints": [
+    "js/runtime-main.ae9a3691.js",
+    "css/2.9692f31f.chunk.css",
+    "js/2.6f212dbf.chunk.js",
+    "css/main.33a8d5c0.chunk.css",
+    "js/main.0bc14aae.chunk.js"
+  ]
+}
