@@ -46,8 +46,8 @@ def submitDetails():
 		message = 'Hey team, \n'+ json['name']+' has tried to contact you... with the following number :- '+json['phone']+'.\n He/She has the following message for you :- \n'+json['message']
 		'''server = smtplib.SMTP("smtp.gmail.com",587)
 		server.starttls()
-		server.login('vivekvvk143@gmail.com','Vivek@143')
-		server.sendmail("vivekvvk143@gmail.com",'vivekvvk143@gmail.com',message)'''
+		server.login('Email','Password')
+		server.sendmail("Sender's mail id",'Reciever's mail id',message)'''
 		try:
 			msg = Message(
 					'Someone in contact window...',
